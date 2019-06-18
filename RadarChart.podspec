@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = "Saber Hossain"
   s.platform     = :ios, "12.2"
-  s.source       = { :git => "https://github.com/shossain2806/RadarChart.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/shossain2806/RadarChart.git", :tag => "1.0.2" }
   s.source_files = "RadarChart"
   s.swift_version = "5" 
   s.framework      = 'UIKit'
